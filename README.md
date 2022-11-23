@@ -4,3 +4,8 @@ This is the most complete Discord bot in v13 that I've made so far. In this case
 It is multifunctional and very easily adaptable. It includes fun commands, advanced moderation,
 activities (made available by Discord recently), and so on! 
 I hope you will enjoy my work and that it will be useful for you!
+
+Here is the help menu:
+
+
+![screenshot](https://media.discordapp.net/attachments/899320565582680096/1044950903851061259/Capture_decran_2022-11-23_131850.jpg)
