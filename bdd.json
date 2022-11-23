@@ -1,0 +1,9 @@
+{
+    "antibot": "on",
+    "antigp": "on",
+    "antilink": "on",
+    "antiraid": "off",
+    "antiselfbot": "on",
+    "antispam": "on",
+    "prefix": "+"
+}
