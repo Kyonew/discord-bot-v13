@@ -8,4 +8,4 @@ I hope you will enjoy my work and that it will be useful for you!
 Here is the help menu:
 
 
-![screenshot](./git-images/help-menu.png)
+![screenshot](./git-images/help-menu.jng)
